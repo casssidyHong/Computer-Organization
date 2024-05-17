@@ -1,2 +1,2 @@
-# Cryptography-Engineering
+# Computer-Organization
 NYCU CS
